@@ -1,0 +1,20 @@
+{
+    "gaseosas": {
+        "1": "static/tienda/gaseosas/fanta.jpeg",
+        "2": "static/tienda/gaseosas/coca_cola.jpeg",
+        "3": "static/tienda/gaseosas/7up.jpeg"
+    },
+    "snacks": {
+        "4": "static/tienda/snacks/cheetos.jpg",
+        "5": "static/tienda/snacks/chizitos.jpg"
+    },
+    "galletas": {
+        "6": "static/tienda/galletas/picaras.jpeg",
+        "7": "static/tienda/galletas/coronita.jpg"
+    },
+    "chocolates": {
+        "8": "static/tienda/chocolates/princesa.jpeg",
+        "9": "static/tienda/chocolates/sublime.jpeg",
+        "10": "static/tienda/chocolates/triangulo.jpg"
+    }
+}
